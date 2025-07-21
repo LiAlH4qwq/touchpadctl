@@ -14,7 +14,7 @@ A little utility which controls touchpad of laptops.
 
 ## Requirements
 
-- [fishshell](https://fishshell.com/) 
+- [fishshell](https://fishshell.com/)
 
 ## Installation
 
@@ -28,13 +28,13 @@ sudo chmod 0755 /usr/local/bin/touchpadctl
 
 ## Usage
 
-### simply run in shell:
+### simply run in shell
 
 ```shell
-touchpadctl
+touchpadctl <toggle|enable|disable>
 ```
 
-### or bind it to a shortcut by your DE's settings. for example:
+### or bind it to a shortcut by your DE's settings. for example
 
 gnome:
 
