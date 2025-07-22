@@ -7,7 +7,7 @@ A little utility which controls touchpad of laptops.
 ## Supporting
 
 - [x] Gnome Wayland (by gsettings)
-- [x] Gnome X11 (By gsettings, untested)
+- [x] Gnome X11 (by gsettings, untested)
 - [ ] KDE
 - [ ] Hyprland
 - [ ] ...
